@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"target": "es5",
+		"module": "commonjs",
+		"strict": true,
+		"locale": "pt-BR",
+		"newLine": "LF",
+		"removeComments": true,
+		"rootDir": "./",
+		"outDir": "dist",
+		"noImplicitAny": false,
+		"noImplicitThis": false,
+		"noImplicitReturns": false,
+		"moduleResolution": "node",
+		"esModuleInterop": true
+	}
+}
